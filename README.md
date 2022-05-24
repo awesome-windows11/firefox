@@ -4,7 +4,9 @@
 
 <h2 align="center">✨ Personalization</h2>
 
-https://github.com/xiaoxiaoflood/firefox-scripts
+[Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
+
+<h2 align="center">⬇ Downloading</h2>
 
 https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439
 

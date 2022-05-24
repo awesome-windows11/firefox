@@ -7,6 +7,7 @@
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
 
 <h2 align="center">🧰 Extensions</h2>
+
 [Translate](https://github.com/FilipePS/Traduzir-paginas-web)
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>

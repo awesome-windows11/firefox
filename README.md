@@ -6,7 +6,7 @@
 
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
 
-<h2 align="center">⬇ Downloading</h2>
+<h2 align="center">⬇ Downloading unbranded builds</h2>
 
 [All versions Firefox repository](https://hg.mozilla.org/releases/mozilla-release/tags)
 <br>

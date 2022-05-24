@@ -16,6 +16,9 @@
 
 [All versions Firefox repository](https://hg.mozilla.org/releases/mozilla-release/tags)
 <br>
+<br>
+[Treeherder Mozilla](https://treeherder.mozilla.org/jobs?repo=mozilla-release&searchStr=addon)
+<br>
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)
 <br>
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.08b69dc588fbdd88334ebcb6fa303eec95176cd6.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

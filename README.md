@@ -2,6 +2,7 @@
 
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
+<h2 align="center">✨ Personalization</h2>
 
 https://github.com/xiaoxiaoflood/firefox-scripts
 

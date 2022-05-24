@@ -1,6 +1,7 @@
 <h1 align="center">Awesome Firefox</h1>
 
 > Site: https://mozilla.vercel.app
+> <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
 <h2 align="center">✨ Personalization</h2>

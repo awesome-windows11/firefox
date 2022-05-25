@@ -1,4 +1,5 @@
 <h1 align="center">Awesome Firefox</h1>
+Project designed to help you make the most of your Firefox browser. We declare that Firefox is times more convenient and better than Chrome. Our goal is to teach you how to get the most out of your browser!
 
 > Site: https://mozilla.vercel.app
 > <br>

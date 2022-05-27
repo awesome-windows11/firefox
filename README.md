@@ -26,4 +26,4 @@ Project designed to help you make the most of your Firefox browser. We declare t
 <br>
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)
 <br>
-[Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.62b172f7d5f0ea07b5c4d9e9f124b384d69a28a8.firefox.win64-add-on-devel/artifacts/public/build/target.zip)
+[Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.6333ee717aaf87bc7328036563ff297c86c22597.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

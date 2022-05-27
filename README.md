@@ -8,7 +8,7 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2 align="center">Configuration Files</h2>
 
-<h2>Policies.json</h2>
+<h3 align="center">Policies.json</h3>
 
 Файл с политиками Firefox
 

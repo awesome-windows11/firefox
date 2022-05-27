@@ -6,6 +6,8 @@ Project designed to help you make the most of your Firefox browser. We declare t
 > <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
+<h2 align="center">distribution/policies.json</h2>
+
 <h2 align="center">✨ Personalization</h2>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)

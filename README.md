@@ -6,8 +6,26 @@ Project designed to help you make the most of your Firefox browser. We declare t
 > <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
-<h2 align="center">distribution/policies.json</h2>
+<h2 align="center">Configuration Files</h2>
 
+<details><summary>Policies.json</summary>
+  
+  `app\distribution\policies.json` - файл с политиками Firefox
+  ```json
+{
+  "policies": {
+    "DisableAppUpdate": true,
+	"DisableFirefoxAccounts": true,
+	"DisableFirefoxScreenshots": true,
+	"DisablePocket": true,
+	"DisableSetDesktopBackground": true,
+	"DisableTelemetry": true,
+	"DontCheckDefaultBrowser": true,
+	"PasswordManagerEnabled": false
+    }
+}
+  ```
+</details>
 <h2 align="center">✨ Personalization</h2>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)

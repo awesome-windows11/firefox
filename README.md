@@ -8,9 +8,12 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2 align="center">Configuration Files</h2>
 
-<details><summary><h2>Policies.json</h2></summary>
-  
-  `app\distribution\policies.json` - файл с политиками Firefox
+<h2>Policies.json</h2>
+
+Файл с политиками Firefox
+
+<details><summary><code>app\distribution\policies.json</code></summary>
+	
   ```json
 {
   "policies": {

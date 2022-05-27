@@ -8,6 +8,8 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2 align="center">✨ Personalization</h2>
 
+[about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
+<br>
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
 <br>
 [Firefox Styles TabBar](https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css))

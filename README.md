@@ -9,7 +9,7 @@ Project designed to help you make the most of your Firefox browser. We declare t
 <h2 align="center">Configuration Files</h2>
 
 
-<h2>config.js (known as mozilla.cfg)</h2>
+<h2>📜 config.js (known as mozilla.cfg)</h2>
 
 File with autopolicies for about:config page
 
@@ -93,7 +93,7 @@ lockPref("browser.urlbar.suggest.calculator", true)
 ```
 </details>
 
-<h2>policies.json</h2>
+<h2>📜 policies.json</h2>
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
 
@@ -115,7 +115,7 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
   ```
 </details>
 
-<h2>userChrome.css</h2>
+<h2>📜 userChrome.css</h2>
 
 Firefox Appearance (CSS)
 

@@ -6,10 +6,10 @@ Project designed to help you make the most of your Firefox browser. We declare t
 > <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
-<h2 align="center">Configuration Files</h2>
+<h1 align="center">Configuration Files</h1>
 
 
-<h3>config.js (known as mozilla.cfg)</h3>
+<h2>config.js (known as mozilla.cfg)</h2>
 
 File with autopolicies for about:config page
 
@@ -93,7 +93,7 @@ lockPref("browser.urlbar.suggest.calculator", true)
 ```
 </details>
 
-<h3>policies.json</h3>
+<h2>policies.json</h2>
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
 
@@ -115,7 +115,7 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
   ```
 </details>
 
-<h3>userChrome.css</h3>
+<h2>userChrome.css</h2>
 
 Firefox Appearance (CSS)
 
@@ -127,7 +127,7 @@ MORE SOON...
 </details>
 
 https://github.com/MrOtherGuy/firefox-csshacks
-<h2 align="center">✨ Personalization</h2>
+<h1 align="center">✨ Personalization</h1>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 <br>

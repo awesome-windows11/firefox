@@ -127,7 +127,7 @@ MORE SOON...
 </details>
 
 https://github.com/MrOtherGuy/firefox-csshacks
-<h1 align="center">✨ Personalization</h1>
+<h2 align="center">✨ Personalization</h2>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 <br>

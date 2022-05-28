@@ -10,7 +10,7 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h3>Policies.json</h3>
 
-Файл с политиками Firefox
+Firefox policies
 
 <details><summary><code>app\distribution\policies.json</code></summary>
 	

@@ -6,7 +6,7 @@ Project designed to help you make the most of your Firefox browser. We declare t
 > <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
-<h1 align="center">Configuration Files</h1>
+<h2 align="center">Configuration Files</h2>
 
 
 <h2>config.js (known as mozilla.cfg)</h2>

@@ -11,10 +11,8 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2>📜 config.js (known as mozilla.cfg)</h2>
 
-You no longer need to manually configure your browser settings. Firefox has auto-configuration for almost any setting. File with autopolicies for about:config page
+You no longer need to manually configure your browser settings. Firefox has auto-configuration for almost any setting. File with autopolicies for [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js) page
 
-
-[All settings about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 
 All the current settings can be viewed without opening the browser at: `profile/prefs.js`
 

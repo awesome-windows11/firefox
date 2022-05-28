@@ -90,6 +90,8 @@ lockPref("layout.word_select.eat_space_to_next_word", false)
 lockPref("network.http.windows-sso.enabled", false)
 // calculator
 lockPref("browser.urlbar.suggest.calculator", true)
+// tabs animation off
+lockPref("ui.prefersReducedMotion, "1")
 ```
 </details>
 

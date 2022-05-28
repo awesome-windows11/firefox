@@ -143,6 +143,8 @@ MORE SOON...
 [Tree Style Tab](https://github.com/piroor/treestyletab)
 <br>
 [Translate Paginas](https://github.com/FilipePS/Traduzir-paginas-web)
+<br>
+[Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 

@@ -10,9 +10,13 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 
 <h3>config.js (known as mozilla.cfg)</h3>
+
 File with autopolicies for about:config page
 
-**IMPORTANT:** for THIS file to work, create a file:
+
+[All settings about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
+
+1. **IMPORTANT:** for THIS file to work, create a file:
 
 <details><summary><code>app\defaults\pref\config-prefs.js</code></summary>
 
@@ -23,7 +27,8 @@ pref("general.config.sandbox_enabled", false);
 ```
 </details>
 
-AFTER that you can create the file:
+2. AFTER that you can create the file:
+
 <details><summary><code>app\config.js</code></summary>
 	
 ```js

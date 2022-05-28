@@ -8,6 +8,86 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2 align="center">Configuration Files</h2>
 
+
+<h3>config.js (known as mozilla.cfg)</h3>
+File with autopolicies for about:config page
+
+**IMPORTANT:** for THIS file to work, create a file:
+
+<details><summary><code>app\defaults\pref\config-prefs.js</code></summary>
+
+``` js
+pref("general.config.obscure_value", 0);
+pref("general.config.filename", "config.js");
+pref("general.config.sandbox_enabled", false);
+```
+</details>
+
+AFTER that you can create the file:
+<details><summary><code>app\config.js</code></summary>
+	
+```js
+// extensions
+lockPref('xpinstall.signatures.required', false);
+// update
+lockPref("app.update.auto", false)
+lockPref("app.update.background.enabled", false)
+// compact mode
+lockPref("browser.compactmode.show", true);
+lockPref("browser.uidensity", 1)
+//safebrowsing Google
+lockPref("browser.safebrowsing.malware.enabled", false)
+lockPref("browser.safebrowsing.phishing.enabled", false)
+lockPref("browser.safebrowsing.blockedURIs.enabled", false)
+lockPref("browser.safebrowsing.downloads.remote.enabled", false)
+lockPref("browser.safebrowsing.provider.google.updateURL", "none")
+lockPref("browser.safebrowsing.provider.google4.updateURL", "none")
+lockPref("browser.safebrowsing.provider.google4.dataSharingUR", "none")
+lockPref("browser.safebrowsing.provider.google4.gethashURL", "none")
+// telemetry
+lockPref("toolkit.telemetry.enabled", false)
+lockPref("toolkit.telemetry.server", "none")
+lockPref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false)
+lockPref("app.normandy.enabled", false)
+lockPref("app.normandy.first_run", false)
+lockPref("app.normandy.api_url", "none")
+// pocket
+lockPref("extensions.pocket.enabled", false)
+lockPref("extensions.pocket.api", "none")
+lockPref("extensions.pocket.site", "none")
+// css
+lockPref("toolkit.legacyUserProfileCustomizations.stylesheets", true)
+lockPref("widget.non-native-theme.scrollbar.style", 1)
+lockPref("nglayout.enable_drag_images", false)
+// containers
+lockPref("privacy.userContext.enabled", true)
+lockPref("privacy.userContext.ui.enabled", true)
+// reader
+lockPref("reader.parse-on-load.enabled", false)
+// search page
+lockPref("accessibility.typeaheadfind", true)
+lockPref("accessibility.typeaheadfind.autostart", false)
+// notification
+lockPref("alerts.useSystemBackend", true)
+// about:config
+lockPref("browser.aboutConfig.showWarning", false)
+// download
+lockPref("browser.download.autohideButton", false)
+// last session
+lockPref("browser.startup.page", 3)
+// tabs preview taskbar
+lockPref("browser.taskbar.previews.enable", false)
+// UTF8 decode
+lockPref("browser.urlbar.decodeURLsOnCopy", true)
+// space double click
+lockPref("layout.word_select.eat_space_to_next_word", false)
+// account
+lockPref("network.http.windows-sso.enabled", false)
+// calculator
+lockPref("browser.urlbar.suggest.calculator", true)
+```
+</details>
+
 <h3>policies.json</h3>
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)

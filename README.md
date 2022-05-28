@@ -16,6 +16,8 @@ File with autopolicies for about:config page
 
 [All settings about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 
+All the current settings can be viewed without opening the browser at: `profile/prefs.js`
+
 1. **IMPORTANT:** for THIS file to work, create a file:
 
 <details><summary><code>app\defaults\pref\config-prefs.js</code></summary>

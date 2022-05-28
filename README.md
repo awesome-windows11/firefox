@@ -124,11 +124,12 @@ Firefox Appearance (CSS)
 <details><summary><code>profile\chrome\userChrome.css</code></summary>
 	
 https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
+
+	
+https://github.com/MrOtherGuy/firefox-csshacks
 	
 MORE SOON...
 </details>
-
-https://github.com/MrOtherGuy/firefox-csshacks
 <h2 align="center">✨ Personalization</h2>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)

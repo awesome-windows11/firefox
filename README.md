@@ -8,7 +8,7 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 <h2 align="center">Configuration Files</h2>
 
-<h3>Policies.json</h3>
+<h3>policies.json</h3>
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
 
@@ -29,6 +29,19 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
 }
   ```
 </details>
+
+<h3>userChrome.css</h3>
+
+Firefox Appearance (CSS)
+
+<details><summary><code>profile\chrome\userChrome.css</code></summary>
+	
+https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
+	
+MORE SOON...
+</details>
+
+https://github.com/MrOtherGuy/firefox-csshacks
 <h2 align="center">✨ Personalization</h2>
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)

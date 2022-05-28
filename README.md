@@ -147,6 +147,8 @@ https://github.com/MrOtherGuy/firefox-csshacks
 
 [All versions Firefox repository](https://hg.mozilla.org/releases/mozilla-release/tags)
 <br>
+[FTP Mozilla](https://ftp.mozilla.org/pub/firefox/releases/)
+<br>
 [Treeherder Mozilla](https://treeherder.mozilla.org/jobs?repo=mozilla-release&searchStr=addon)
 <br>
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)

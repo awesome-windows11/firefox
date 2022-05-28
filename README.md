@@ -29,7 +29,7 @@ pref("general.config.sandbox_enabled", false);
 ```
 </details>
 
-2. AFTER that you can create the file:
+2. AFTER that you can create the file (*here are some examples of the most famous settings*):
 
 <details><summary><code>app\config.js</code></summary>
 	

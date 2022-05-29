@@ -137,6 +137,8 @@ MORE SOON...
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
 <br>
 [Firefox Styles TabBar](https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css))
+<br>
+[Portable Firefox](https://github.com/UndertakerBen/PorFirefoxUpd)
 
 <h2 align="center">🧰 Extensions</h2>
 

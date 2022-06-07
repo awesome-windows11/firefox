@@ -140,7 +140,10 @@ MORE SOON...
 <br>
 [Firefox Styles TabBar](https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css))
 <br>
+[WaveFox](https://github.com/QNetITQ/WaveFox)
+<br>
 [Portable Firefox](https://github.com/UndertakerBen/PorFirefoxUpd)
+
 
 <h2 align="center">🧰 Extensions</h2>
 

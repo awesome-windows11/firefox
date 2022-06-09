@@ -153,7 +153,7 @@ MORE SOON...
 <br>
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 
-<h2 align="center">⬇ Downloading unbranded builds</h2>
+<h2 align="center">⬇ Unbranded builds</h2>
 
 [All versions Firefox repository](https://hg.mozilla.org/releases/mozilla-release/tags)
 <br>
@@ -166,7 +166,9 @@ MORE SOON...
 [Language packs](http://releases.mozilla.org/pub/firefox/releases/100.0.2/win64/xpi/)
 <br>
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)
-<br>
+
+<h3 align="center">⬇ Downloading unbranded builds</h3>
+
 [Firefox 101.0 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.6333ee717aaf87bc7328036563ff297c86c22597.firefox.win64-add-on-devel/artifacts/public/build/target.zip)
 <br>
 [Firefox 88.0.1 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.179e1482851c07d65bf29a21c9e42ea312fc87fa.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

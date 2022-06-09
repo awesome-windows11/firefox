@@ -130,7 +130,7 @@ lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
 
-<details><summary><code>app\distribution\policies.json</code></summary>
+<details><summary><code>...\distribution\policies.json</code></summary>
 	
   ```json
 {

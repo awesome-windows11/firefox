@@ -98,6 +98,8 @@ lockPref("browser.urlbar.suggest.calculator", true)
 lockPref("ui.prefersReducedMotion", "1")
 // ctrl + tab menu
 lockPref("browser.ctrlTab.sortByRecentlyUsed", true)
+// Open links in tabs of new tab (windows = 2)
+lockPref("browser.link.open_newwindow", 3)
 //  smoothscrolling
 lockPref("general.smoothScroll", false)
 // autofill logins and passwords

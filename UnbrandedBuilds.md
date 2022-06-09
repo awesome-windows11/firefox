@@ -12,11 +12,9 @@
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
-### Firefox 100.0.1 Release
+### Firefox 100.0.1 Release [20220513165813](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/OBKjhnkaT8mFahs4-8eAKw/runs/0/artifacts/public/build/target.zip
-<br>
-[20220513165813](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
 
 ### [Firefox 88.0.1 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.179e1482851c07d65bf29a21c9e42ea312fc87fa.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

@@ -92,6 +92,8 @@ lockPref("network.http.windows-sso.enabled", false)
 lockPref("browser.urlbar.suggest.calculator", true)
 // tabs animation off
 lockPref("ui.prefersReducedMotion", "1")
+//  smoothscrolling
+lockPref("general.smoothScroll", false)
 // useragent
 lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36")
 ```

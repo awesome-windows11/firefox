@@ -16,7 +16,7 @@ You no longer need to manually configure your browser settings. Firefox has auto
 
 All the current settings can be viewed without opening the browser at: `profile/prefs.js`
 
-1. **IMPORTANT:** for THIS file to work, create a file (autoconfig.js, prefs.js):
+1. **IMPORTANT:** for THIS file to work, create a file (`autoconfig.js, prefs.js`):
 
 <details><summary><code>app\defaults\pref\config-prefs.js</code></summary>
 

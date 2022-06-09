@@ -96,6 +96,8 @@ lockPref("network.http.windows-sso.enabled", false)
 lockPref("browser.urlbar.suggest.calculator", true)
 // tabs animation off
 lockPref("ui.prefersReducedMotion", "1")
+// ctrl + tab menu
+lockPref("browser.ctrlTab.sortByRecentlyUsed", true)
 //  smoothscrolling
 lockPref("general.smoothScroll", false)
 // autofill logins and passwords

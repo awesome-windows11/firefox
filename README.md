@@ -49,6 +49,8 @@ lockPref("browser.safebrowsing.provider.google.updateURL", "none")
 lockPref("browser.safebrowsing.provider.google4.updateURL", "none")
 lockPref("browser.safebrowsing.provider.google4.dataSharingUR", "none")
 lockPref("browser.safebrowsing.provider.google4.gethashURL", "none")
+// Block dangerous downloads
+lockPref("browser.safebrowsing.downloads.enabled", false) 
 // Warn you about unwanted and uncommon software
 lockPref("browser.safebrowsing.downloads.remote.block_uncommon", false)
 // telemetry

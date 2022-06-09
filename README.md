@@ -168,6 +168,12 @@ MORE SOON...
 [Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)
 
 <h3 align="center">⬇ Downloading unbranded builds</h3>
-### [Firefox 100.0.1 Release](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/OBKjhnkaT8mFahs4-8eAKw/runs/0/artifacts/public/build/target.zip) [b1c0f2614439](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
-### [Firefox 101.0 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.6333ee717aaf87bc7328036563ff297c86c22597.firefox.win64-add-on-devel/artifacts/public/build/target.zip)
+
+### [Firefox 100.0.1 Release]
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/OBKjhnkaT8mFahs4-8eAKw/runs/0/artifacts/public/build/target.zip
+<br>
+[b1c0f2614439](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
+
 ### [Firefox 88.0.1 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.179e1482851c07d65bf29a21c9e42ea312fc87fa.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

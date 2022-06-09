@@ -152,7 +152,7 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
 
 Firefox Appearance (CSS)
 
-<details><summary><code>profile\chrome\userChrome.css</code></summary>
+<details><summary><code>...\profile\chrome\userChrome.css</code></summary>
 	
 https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
 

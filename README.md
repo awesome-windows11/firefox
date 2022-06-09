@@ -169,7 +169,7 @@ MORE SOON...
 
 <h3 align="center">⬇ Downloading unbranded builds</h3>
 
-### [Firefox 100.0.1 Release]
+### Firefox 100.0.1 Release
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/OBKjhnkaT8mFahs4-8eAKw/runs/0/artifacts/public/build/target.zip

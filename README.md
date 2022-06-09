@@ -174,6 +174,6 @@ Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStC
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/OBKjhnkaT8mFahs4-8eAKw/runs/0/artifacts/public/build/target.zip
 <br>
-[b1c0f2614439](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
+[20220513165813](https://hg.mozilla.org/releases/mozilla-release/rev/b1c0f2614439)
 
 ### [Firefox 88.0.1 BUILD1](https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.179e1482851c07d65bf29a21c9e42ea312fc87fa.firefox.win64-add-on-devel/artifacts/public/build/target.zip)

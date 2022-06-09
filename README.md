@@ -100,6 +100,8 @@ lockPref("signon.autofillForms", false)
 lockPref("signon.generation.enabled", false)
 // Provide search suggestions
 lockPref("browser.search.suggest.enabled", true)
+// Show search suggestions in adress bar results
+lockPref("browser.urlbar.suggest.searches", true)
 // Show search suggestions in Private Windows
 lockPref("browser.search.suggest.enabled.private", true)
 // Search bar in toolbar

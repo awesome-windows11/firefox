@@ -102,6 +102,8 @@ lockPref("signon.generation.enabled", false)
 lockPref("browser.search.suggest.enabled", true)
 // Show search suggestions in Private Windows
 lockPref("browser.search.suggest.enabled.private", true)
+// Search bar in toolbar
+lockPref("browser.search.widget.inNavBar", false)
 // useragent
 lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36")
 ```

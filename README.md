@@ -101,7 +101,9 @@ lockPref("ui.prefersReducedMotion", "1")
 lockPref("browser.ctrlTab.sortByRecentlyUsed", true)
 // Open links in tabs of new tab (windows = 2)
 lockPref("browser.link.open_newwindow", 3)
-//  smoothscrolling
+// open links in searchbar of current tab
+lockPref("browser.urlbar.openintab", false)
+// smoothscrolling
 lockPref("general.smoothScroll", false)
 // autofill logins and passwords
 lockPref("signon.autofillForms", false)

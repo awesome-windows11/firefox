@@ -7,8 +7,6 @@
 [Treeherder Mozilla](https://treeherder.mozilla.org/jobs?repo=mozilla-release&searchStr=addon)
 <br>
 [Language packs](http://releases.mozilla.org/pub/firefox/releases/100.0.2/win64/xpi/)
-<br>
-[Direct link (target.zip)](https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VNOilwrHStCk8T6bLk0fRA/runs/0/artifacts/public/build/target.zip)
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 

@@ -96,6 +96,8 @@ lockPref("ui.prefersReducedMotion", "1")
 lockPref("general.smoothScroll", false)
 // autofill logins and passwords
 lockPref("signon.autofillForms", false)
+// suggest and generate strong password
+lockPref("signon.generation.enabled", false)
 // useragent
 lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36")
 ```

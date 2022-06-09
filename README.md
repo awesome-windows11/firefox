@@ -157,6 +157,8 @@ MORE SOON...
 
 [All versions Firefox repository](https://hg.mozilla.org/releases/mozilla-release/tags)
 <br>
+[About versions](https://wiki.mozilla.org/Add-ons/Extension_Signing)
+<br>
 [FTP Mozilla](https://ftp.mozilla.org/pub/firefox/releases/)
 <br>
 [Treeherder Mozilla](https://treeherder.mozilla.org/jobs?repo=mozilla-release&searchStr=addon)

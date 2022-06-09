@@ -82,6 +82,7 @@ lockPref("alerts.useSystemBackend", true)
 lockPref("browser.aboutConfig.showWarning", false)
 // download
 lockPref("browser.download.autohideButton", false)
+lockPref("browser.download.useDownloadDir", false)
 // last session
 lockPref("browser.startup.page", 3)
 // tabs preview taskbar

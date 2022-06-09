@@ -153,4 +153,4 @@ MORE SOON...
 <br>
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 
-<h2 align="center">⬇ Unbranded builds</h2>
+<h2 align="center"><a href="https://github.com/awesome-windows11/firefox/blob/main/UnbrandedBuilds.md">⬇ Unbranded builds</a></h2>

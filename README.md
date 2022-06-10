@@ -6,6 +6,8 @@ Project designed to help you make the most of your Firefox browser. We declare t
 > <br>
 > Awesome Windows 11: https://github.com/awesome-windows11/windows11
 
+Mobile: https://github.com/fork-maintainers/iceraven-browser
+
 <h2 align="center">Configuration Files</h2>
 
 

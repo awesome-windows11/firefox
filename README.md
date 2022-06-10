@@ -159,6 +159,8 @@ https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
 https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
 <br>
 https://github.com/Aris-t2/CustomCSSforFx/tree/master/fx60-90
+<br>
+https://github.com/Timvde/UserChrome-Tweaks
 
 ```css
 /* compact_menus_proton */

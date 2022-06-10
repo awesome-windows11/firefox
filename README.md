@@ -155,7 +155,8 @@ Firefox Appearance (CSS)
 <details><summary><code>...\profile\chrome\userChrome.css</code></summary>
 	
 https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
-
+<br>
+https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
 
 	
 MORE SOON...
@@ -165,8 +166,6 @@ MORE SOON...
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 <br>
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
-<br>
-[Firefox Styles TabBar](https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css))
 <br>
 [WaveFox](https://github.com/QNetITQ/WaveFox)
 <br>

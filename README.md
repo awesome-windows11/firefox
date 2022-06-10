@@ -172,6 +172,8 @@ MORE SOON...
 [WaveFox](https://github.com/QNetITQ/WaveFox)
 <br>
 [Portable Firefox](https://github.com/UndertakerBen/PorFirefoxUpd)
+<br>
+[Customization files](https://github.com/auberginehill/firefox-customization-files)
 
 
 <h2 align="center">🧰 Extensions</h2>

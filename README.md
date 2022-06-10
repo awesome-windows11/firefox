@@ -160,6 +160,25 @@ https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.
 <br>
 https://github.com/Aris-t2/CustomCSSforFx/tree/master/fx60-90
 
+```css
+/* compact_menus_proton */
+.subview-subheader,
+panelview .toolbarbutton-1,
+.subviewbutton,
+.widget-overflow-list .toolbarbutton-1 {
+  padding: 2px !important;
+}
+	
+menupopup > menuitem,
+menupopup > menu {
+  padding-block: 2px !important;
+}
+
+#context-navigation :-moz-any(#context-back,#context-forward,#context-reload,#context-stop,#context-bookmarkpage) {
+  padding: 2px !important;
+  -moz-margin-start: -10px !important;
+}
+```
 	
 MORE SOON...
 </details>

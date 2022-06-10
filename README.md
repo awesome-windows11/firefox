@@ -156,8 +156,7 @@ Firefox Appearance (CSS)
 	
 https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
 
-	
-https://github.com/MrOtherGuy/firefox-csshacks
+
 	
 MORE SOON...
 </details>

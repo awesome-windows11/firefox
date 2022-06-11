@@ -10,7 +10,6 @@ Mobile: https://github.com/fork-maintainers/iceraven-browser
 
 <h2 align="center">Configuration Files</h2>
 
-
 <h2>📜 config.js (known as mozilla.cfg aka. firefox.cfg)</h2>
 
 You no longer need to manually configure your browser settings. Firefox has auto-configuration for almost any setting. File with autopolicies for [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js) page / [Список настроек на русском](https://forum.mozilla-russia.org/viewtopic.php?id=36226)

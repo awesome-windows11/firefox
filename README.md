@@ -10,7 +10,7 @@ Mobile: https://github.com/fork-maintainers/iceraven-browser
 
 <h2 align="center">Configuration Files</h2>
 
-<h2>📜 config.js (known as mozilla.cfg aka. firefox.cfg)</h2>
+<h3>📜 config.js (known as mozilla.cfg aka. firefox.cfg)</h3>
 
 You no longer need to manually configure your browser settings. Firefox has auto-configuration for almost any setting. File with autopolicies for [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js) page / [Список настроек на русском](https://forum.mozilla-russia.org/viewtopic.php?id=36226)
 
@@ -126,7 +126,7 @@ lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64
 ```
 </details>
 
-<h2>📜 policies.json</h2>
+<h3>📜 policies.json</h3>
 
 Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
 
@@ -148,7 +148,7 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
   ```
 </details>
 
-<h2>📜 userChrome.css</h2>
+<h3>📜 userChrome.css</h3>
 
 Firefox Appearance (CSS)
 

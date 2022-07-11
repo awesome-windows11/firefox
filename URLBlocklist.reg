@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[Software\Policies\Mozilla\Firefox\WebsiteFilter\Block]
+1 = "http://xvideos.com/*"

@@ -195,7 +195,8 @@ MORE SOON...
 [Portable Firefox](https://github.com/UndertakerBen/PorFirefoxUpd)
 <br>
 [Customization files](https://github.com/auberginehill/firefox-customization-files)
-
+<br>
+[uc.css.js](https://github.com/aminomancer/uc.css.js)
 
 <h2 align="center">🧰 Extensions</h2>
 

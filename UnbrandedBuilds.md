@@ -10,6 +10,11 @@
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+### Firefox 103.0 [5c3227d2de55](https://hg.mozilla.org/releases/mozilla-release/rev/5c3227d2de55)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/Wk4f4DbiTGyr2bvZ6_ipkA/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/Wfer88UzTUW35LQgyX-2yw/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 102.0.1 [a7294bfb4371 (20220705093820)](https://treeherder.mozilla.org/jobs?repo=mozilla-release&searchStr=addon&revision=a7294bfb43712ab3225c76087cd359a22ea8fa7d)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/P5fi9kXJRkm69Kc6W4Jh0w/runs/0/artifacts/public/build/target.zip
 <br>

@@ -11,7 +11,7 @@ https://ftp.mozilla.org/pub/firefox/releases
 [Language packs](http://releases.mozilla.org/pub/firefox/releases/100.0.2/win64/xpi/)
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
-### Firefox 104.0 [ae56b3bb7fa3 ()](https://hg.mozilla.org/releases/mozilla-release/rev/ae56b3bb7fa3)
+### Firefox 104.0 [ae56b3bb7fa3 (NaN)](https://hg.mozilla.org/releases/mozilla-release/rev/ae56b3bb7fa3)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/POq7It9eRNy68Qj3LijIlQ/runs/0/artifacts/public/build/target.zip
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/XX6mdYJqQqmkGoBX0snEBA/runs/0/artifacts/public/build/target.zip

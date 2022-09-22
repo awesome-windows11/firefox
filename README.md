@@ -74,7 +74,7 @@ lockPref("privacy.userContext.ui.enabled", true)
 // reader
 lockPref("reader.parse-on-load.enabled", false)
 // search page
-lockPref("accessibility.typeaheadfind", true)
+lockPref("accessibility.typeaheadfind", false) // чтобы поиск не набирался сразу
 lockPref("accessibility.typeaheadfind.autostart", false)
 // notification
 lockPref("alerts.useSystemBackend", true)

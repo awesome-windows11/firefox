@@ -12,6 +12,11 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+### Firefox 107.0 [5329e5f08ad8](https://hg.mozilla.org/releases/mozilla-release/rev/5329e5f08ad8)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/TiLQPmTiThqM9wvF1KB9JQ/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/YiJ7i5qkR4yhbPlBEj7sOA/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 104.0 [ae56b3bb7fa3 (20220818191623)](https://hg.mozilla.org/releases/mozilla-release/rev/ae56b3bb7fa3)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/POq7It9eRNy68Qj3LijIlQ/runs/0/artifacts/public/build/target.zip
 <br>

@@ -18,7 +18,7 @@ All the current settings can be viewed without opening the browser at: `profile/
 
 1. **IMPORTANT:** for THIS file to work, create a file (`autoconfig.js`, `prefs.js`):
 
-<details><summary><code>...\defaults\pref\config-prefs.js</code></summary>
+<details><summary><code>...app\defaults\pref\config-prefs.js</code></summary>
 
 ``` js
 pref("general.config.obscure_value", 0);

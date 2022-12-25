@@ -29,7 +29,7 @@ pref("general.config.sandbox_enabled", false);
 
 2. AFTER that you can create the file (*here are some examples of the most famous settings*):
 
-<details><summary><code>...\config.js</code></summary>
+<details><summary><code>...app\config.js</code></summary>
 	
 ```js
 // extensions

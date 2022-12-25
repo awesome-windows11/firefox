@@ -18,7 +18,7 @@ All the current settings can be viewed without opening the browser at: `profile/
 
 1. **IMPORTANT:** for THIS file to work, create a file (`autoconfig.js`, `prefs.js`):
 
-<details><summary><code>...app\defaults\pref\config-prefs.js</code></summary>
+<details><summary><code>...\app\defaults\pref\config-prefs.js</code></summary>
 
 ``` js
 pref("general.config.obscure_value", 0);
@@ -29,7 +29,7 @@ pref("general.config.sandbox_enabled", false);
 
 2. AFTER that you can create the file (*here are some examples of the most famous settings*):
 
-<details><summary><code>...app\config.js</code></summary>
+<details><summary><code>...\app\config.js</code></summary>
 	
 ```js
 // extensions

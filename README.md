@@ -194,21 +194,23 @@ Include flag: `toolkit.legacyUserProfileCustomizations.stylesheet` = true
 
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 <br>
-[Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
+https://github.com/xiaoxiaoflood/firefox-scripts
 <br>
-[WaveFox](https://github.com/QNetITQ/WaveFox)
+https://github.com/black7375/Firefox-UI-Fix
 <br>
-[Portable Firefox](https://github.com/UndertakerBen/PorFirefoxUpd)
+https://github.com/QNetITQ/WaveFox
 <br>
-[Customization files](https://github.com/auberginehill/firefox-customization-files)
+https://github.com/UndertakerBen/PorFirefoxUpd
 <br>
-[uc.css.js](https://github.com/aminomancer/uc.css.js)
+https://github.com/auberginehill/firefox-customization-files
+<br>
+https://github.com/aminomancer/uc.css.js
 
 <h2 align="center">🧰 Extensions</h2>
 
-[Tree Style Tab](https://github.com/piroor/treestyletab)
+https://github.com/piroor/treestyletab
 <br>
-[Translate Paginas](https://github.com/FilipePS/Traduzir-paginas-web)
+https://github.com/FilipePS/Traduzir-paginas-web
 <br>
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 

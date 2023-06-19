@@ -190,6 +190,8 @@ MORE SOON...
 </details>
 <h2 align="center">✨ Personalization</h2>
 
+Include flag: `toolkit.legacyUserProfileCustomizations.stylesheet` = true
+
 [about:config](https://searchfox.org/mozilla-release/source/browser/app/profile/firefox.js)
 <br>
 [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts)

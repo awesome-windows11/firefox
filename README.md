@@ -160,7 +160,9 @@ https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
 <br>
 https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
 <br>
-https://github.com/Aris-t2/CustomCSSforFx/tree/master/fx60-90
+https://github.com/Aris-t2/CustomCSSforFx
+<br>
+https://github.com/Aris-t2/CustomJSforFx
 <br>
 https://github.com/Timvde/UserChrome-Tweaks
 
@@ -203,8 +205,6 @@ https://github.com/UndertakerBen/PorFirefoxUpd
 https://github.com/auberginehill/firefox-customization-files
 <br>
 https://github.com/aminomancer/uc.css.js
-<br>
-https://github.com/Aris-t2/CustomJSforFx
 <br>
 https://github.com/doublejim/tree-style-tab-compact-dark-style
 

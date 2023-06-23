@@ -198,6 +198,8 @@ https://github.com/xiaoxiaoflood/firefox-scripts
 <br>
 https://github.com/black7375/Firefox-UI-Fix
 <br>
+https://github.com/muckSponge/MaterialFox
+<br>
 https://github.com/QNetITQ/WaveFox
 <br>
 https://github.com/UndertakerBen/PorFirefoxUpd

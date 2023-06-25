@@ -208,7 +208,7 @@ https://github.com/QNetITQ/WaveFox
 <br>
 https://github.com/edelvarden/material-fox-updated
 <br>
-https://github.com/bmFtZQ/Edge-FrFox
+https://github.com/maicol07/FluentFox
 <br>
 https://github.com/auberginehill/firefox-customization-files
 <br>

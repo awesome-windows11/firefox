@@ -210,6 +210,8 @@ https://github.com/edelvarden/material-fox-updated
 <br>
 https://github.com/maicol07/FluentFox
 <br>
+https://github.com/fboulnois/positron-ui-firefox
+<br>
 https://github.com/auberginehill/firefox-customization-files
 <br>
 https://github.com/aminomancer/uc.css.js

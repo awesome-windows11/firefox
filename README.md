@@ -165,6 +165,8 @@ https://github.com/Aris-t2/CustomCSSforFx
 https://github.com/Aris-t2/CustomJSforFx
 <br>
 https://github.com/Timvde/UserChrome-Tweaks
+<br>
+https://github.com/Isaac-Newt/userChrome-styles
 
 ```css
 /* compact_menus_proton */

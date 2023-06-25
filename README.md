@@ -209,6 +209,8 @@ https://github.com/auberginehill/firefox-customization-files
 https://github.com/aminomancer/uc.css.js
 <br>
 https://github.com/doublejim/tree-style-tab-compact-dark-style
+<br>
+https://github.com/filips123/PWAsForFirefox
 
 <h2 align="center">🧰 Extensions</h2>
 

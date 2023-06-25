@@ -206,7 +206,9 @@ https://github.com/muckSponge/MaterialFox
 <br>
 https://github.com/QNetITQ/WaveFox
 <br>
-https://github.com/UndertakerBen/PorFirefoxUpd
+https://github.com/edelvarden/material-fox-updated
+<br>
+https://github.com/bmFtZQ/Edge-FrFox
 <br>
 https://github.com/auberginehill/firefox-customization-files
 <br>

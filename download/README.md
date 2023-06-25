@@ -8,3 +8,5 @@ http://www1.plala.or.jp/tete009/en-US/software.html
 
 ### Mode
 https://librewolf.net/installation/windows/
+<br>
+https://www.waterfox.net/download/

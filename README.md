@@ -93,8 +93,6 @@ lockPref("browser.urlbar.decodeURLsOnCopy", true)
 lockPref("layout.word_select.eat_space_to_next_word", false)
 // account
 lockPref("network.http.windows-sso.enabled", false)
-// calculator
-lockPref("browser.urlbar.suggest.calculator", true)
 // tabs animation off
 lockPref("ui.prefersReducedMotion", "1")
 // ctrl + tab menu
@@ -127,6 +125,9 @@ lockPref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64
 lockPref("browser.urlbar.showSearchSuggestionsFirst", false)
 // max count search bar
 lockPref("browser.urlbar.maxRichResults", 20)
+// calculator
+lockPref("browser.urlbar.suggest.calculator", true)
+lockPref("browser.urlbar.unitConversion.enabled", true)
 ```
 </details>
 

@@ -12,7 +12,7 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
-### Firefox 115 [1c2603279ac3](https://hg.mozilla.org/releases/mozilla-release/rev/1c2603279ac3)
+### Firefox 115 [1c2603279ac3 (20230629134642)](https://hg.mozilla.org/releases/mozilla-release/rev/1c2603279ac3)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/HiCNZvvpTYSzUo6ztHaGZw/runs/0/artifacts/public/build/target.zip
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/bI-rvGgvTf-nbz09JCPPkA/runs/0/artifacts/public/build/target.zip

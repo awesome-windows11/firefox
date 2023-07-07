@@ -30,7 +30,9 @@ pref("general.config.sandbox_enabled", false);
 2. AFTER that you can create the file (*here are some examples of the most famous settings*):
 
 <details><summary><code>...\app\config.js</code></summary>
-	
+
+https://github.com/arkenfox/user.js/blob/master/user.js
+
 ```js
 // extensions
 lockPref('xpinstall.signatures.required', false);

@@ -10,49 +10,6 @@ Mobile: https://github.com/fork-maintainers/iceraven-browser
 
 <h2 align="center">Configuration Files</h2>
 
-
-<h3>📜 userChrome.css</h3>
-
-Firefox Appearance (CSS)
-
-<details><summary><code>...\profile\chrome\userChrome.css</code></summary>
-	
-https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome
-<br>
-https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
-<br>
-https://github.com/Aris-t2/CustomCSSforFx
-<br>
-https://github.com/Aris-t2/CustomJSforFx
-<br>
-https://github.com/Timvde/UserChrome-Tweaks
-<br>
-https://github.com/Isaac-Newt/userChrome-styles
-<br>
-https://github.com/dotiful/firefox-scripts
-
-```css
-/* compact_menus_proton */
-.subview-subheader,
-panelview .toolbarbutton-1,
-.subviewbutton,
-.widget-overflow-list .toolbarbutton-1 {
-  padding: 2px !important;
-}
-	
-menupopup > menuitem,
-menupopup > menu {
-  padding-block: 2px !important;
-}
-
-#context-navigation :-moz-any(#context-back,#context-forward,#context-reload,#context-stop,#context-bookmarkpage) {
-  padding: 2px !important;
-  -moz-margin-start: -10px !important;
-}
-```
-	
-MORE SOON...
-</details>
 <h2 align="center">✨ Personalization</h2>
 
 Include flag: `toolkit.legacyUserProfileCustomizations.stylesheet` = true

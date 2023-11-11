@@ -149,7 +149,19 @@ Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/READM
 	"DisableSetDesktopBackground": true,
 	"DisableTelemetry": true,
 	"DontCheckDefaultBrowser": true,
-	"PasswordManagerEnabled": false
+	"PasswordManagerEnabled": false,
+	"WebsiteFilter": {
+	  "Block": [
+		"*://*.xvideos.com/*",
+		"*://*.porno365.expert/*",
+		"*://*.porno365.family/*",
+		"*://*.pornhub.com/*",
+		"*://*.xhamster.com/*",
+		"https://*/*porn*",
+		"https://*/*hmv*",
+		"https://*/*hentai*"
+	  ]
+	}
     }
 }
   ```

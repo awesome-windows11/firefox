@@ -133,55 +133,6 @@ lockPref("browser.urlbar.unitConversion.enabled", true)
 ```
 </details>
 
-<h3>📜 policies.json</h3>
-
-Firefox [policies](https://github.com/mozilla/policy-templates/blob/master/README.md)
-
-<details><summary><code>...\distribution\policies.json</code></summary>
-	
-  ```json
-{
-"policies": {
-  "DisableAppUpdate": true,
-  "DisableFirefoxAccounts": true,
-  "DisableFirefoxScreenshots": true,
-  "DisablePocket": true,
-  "DisableSetDesktopBackground": true,
-  "DisableTelemetry": true,
-  "DontCheckDefaultBrowser": true,
-  "PasswordManagerEnabled": false,
-  "WebsiteFilter": {
-    "Block": [
-  	"*://*.xvideos.com/*",
-  	"*://*.porno365.expert/*",
-  	"*://*.porno365.family/*",
-  	"*://*.pornhub.com/*",
-  	"*://*.xhamster.com/*",
-  	"https://*/*porn*",
-  	"https://*/*hmv*",
-  	"https://*/*hentai*"
-    ],
-    "Extensions": {
-      "Locked": ["https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi", "https://addons.mozilla.org/firefox/downloads/latest/block-website/latest.xpi"]
-    },
-    "ExtensionSettings": {
-      "uBlock0@raymondhill.net": {
-        "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi"
-      },
-      "{54e2eb33-18eb-46ad-a4e4-1329c29f6e17}": {
-        "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/block-website/latest.xpi"
-      },
-      "https-everywhere@eff.org": {
-        "installation_mode": "allowed"
-      }
-    }
-  }
-  }
-}
-  ```
-</details>
 
 <h3>📜 userChrome.css</h3>
 

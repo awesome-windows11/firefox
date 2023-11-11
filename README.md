@@ -83,6 +83,23 @@ https://github.com/UnlimitedAvailableUsername/Edge-Mimicry-Tree-Style-Tab-For-Fi
 <br>
 https://github.com/filips123/PWAsForFirefox
 
+<h2 align="center">🔽 Downloads</h2>
+
+### Portable
+https://portapps.io/app/phyrox-portable/
+<br>
+https://github.com/UndertakerBen/PorFirefoxUpd
+<br>
+http://effect8.ru/soft/browsers/mozilla-firefox-portable-rus.html
+<br>
+http://www1.plala.or.jp/tete009/en-US/software.html
+
+
+### Mode
+https://librewolf.net/installation/windows/
+<br>
+https://www.waterfox.net/download/
+
 <h2 align="center">🧰 Extensions</h2>
 
 https://github.com/piroor/treestyletab

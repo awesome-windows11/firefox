@@ -236,3 +236,7 @@ https://github.com/FilipePS/Traduzir-paginas-web
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 
 <h2 align="center"><a href="https://github.com/awesome-windows11/firefox/tree/main/UnbrandedBuilds">⬇ Unbranded builds</a></h2>
+
+<h2 align="center">Stats</h2>
+
+[![Stargazers over time](https://starchart.cc/awesome-windows11/firefox.svg)](https://starchart.cc/awesome-windows11/firefox)

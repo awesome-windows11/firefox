@@ -8,8 +8,6 @@ Project designed to help you make the most of your Firefox browser. We declare t
 
 Mobile: https://github.com/fork-maintainers/iceraven-browser
 
-<h2 align="center">Configuration Files</h2>
-
 <h2 align="center">✨ Personalization</h2>
 
 Include flag: `toolkit.legacyUserProfileCustomizations.stylesheet` = true

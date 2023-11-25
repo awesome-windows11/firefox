@@ -30,6 +30,8 @@ lockPref("app.normandy.api_url", "none")
 lockPref("extensions.pocket.enabled", false)
 lockPref("extensions.pocket.api", "none")
 lockPref("extensions.pocket.site", "none")
+// reader mode
+lockPref("reader.parse-on-load.enabled, false)
 // css
 lockPref("toolkit.legacyUserProfileCustomizations.stylesheets", true)
 lockPref("widget.non-native-theme.scrollbar.style", 1)

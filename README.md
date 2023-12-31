@@ -42,6 +42,8 @@ https://github.com/filips123/PWAsForFirefox
 
 ### Not Proton
 ESR (not working github, bbc, etc.): https://ftp.mozilla.org/pub/firefox/releases/78.15.0esr/win32/ru/
+<br>
+ESR: https://ftp.mozilla.org/pub/firefox/releases/91.13.0esr/win32/ru/
 
 ### Portable
 https://portapps.io/app/phyrox-portable/

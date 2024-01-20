@@ -54,6 +54,10 @@ http://effect8.ru/soft/browsers/mozilla-firefox-portable-rus.html
 <br>
 http://www1.plala.or.jp/tete009/en-US/software.html
 
+### Fork
+https://github.com/Alex313031/Mercury
+<br>
+https://astian.org/midori-browser
 
 ### Mode
 https://librewolf.net/installation/windows/

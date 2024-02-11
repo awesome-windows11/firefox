@@ -34,7 +34,7 @@ lockPref("extensions.pocket.site", "none")
 lockPref("reader.parse-on-load.enabled", false)
 // css
 lockPref("toolkit.legacyUserProfileCustomizations.stylesheets", true)
-lockPref("widget.non-native-theme.scrollbar.style", 1)
+lockPref("widget.non-native-theme.scrollbar.style", 3)
 lockPref("nglayout.enable_drag_images", false)
 // containers
 lockPref("privacy.userContext.enabled", true)

@@ -48,6 +48,8 @@ ESR: https://ftp.mozilla.org/pub/firefox/releases/91.13.0esr/win32/ru/
 ### Portable
 https://portapps.io/app/phyrox-portable/
 <br>
+https://portapps.io/app/phyrox-developer-portable/
+<br>
 https://github.com/UndertakerBen/PorFirefoxUpd
 <br>
 http://effect8.ru/soft/browsers/mozilla-firefox-portable-rus.html

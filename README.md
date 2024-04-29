@@ -73,6 +73,8 @@ https://github.com/piroor/treestyletab
 https://github.com/FilipePS/Traduzir-paginas-web
 <br>
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
+<br>
+https://github.com/moritz-h/urls-list
 
 <h2 align="center"><a href="https://github.com/awesome-windows11/firefox/tree/main/UnbrandedBuilds">⬇ Unbranded builds</a></h2>
 

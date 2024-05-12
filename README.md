@@ -60,6 +60,8 @@ http://www1.plala.or.jp/tete009/en-US/software.html
 https://github.com/Alex313031/Mercury
 <br>
 https://astian.org/midori-browser
+<br>
+https://floorp.app/en
 
 ### Mode
 https://librewolf.net/installation/windows/

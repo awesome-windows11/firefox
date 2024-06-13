@@ -57,16 +57,16 @@ http://effect8.ru/soft/browsers/mozilla-firefox-portable-rus.html
 http://www1.plala.or.jp/tete009/en-US/software.html
 
 ### Fork
+https://librewolf.net/installation/windows/
+<br>
+https://www.waterfox.net/download/
+<br>
 https://github.com/Alex313031/Mercury
 <br>
 https://astian.org/midori-browser
 <br>
 https://floorp.app/en
 
-### Mode
-https://librewolf.net/installation/windows/
-<br>
-https://www.waterfox.net/download/
 
 <h2 align="center">🧰 Extensions</h2>
 

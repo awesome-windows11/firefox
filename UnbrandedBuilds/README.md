@@ -12,6 +12,11 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+### Firefox 127 [cfd3e02d8411](https://hg.mozilla.org/releases/mozilla-release/rev/cfd3e02d8411)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VkDdVLLZQ6iRCiCtd2tV2Q/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/c3R08GyVR4Cr9pEAanhh3Q/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 124 [163c38ee7a7a](https://hg.mozilla.org/releases/mozilla-release/rev/163c38ee7a7a)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/BRLWyRI-Te-qE4oELSds6w/runs/0/artifacts/public/build/target.zip
 <br>

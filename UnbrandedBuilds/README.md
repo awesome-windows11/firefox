@@ -17,6 +17,11 @@ Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/VkDdVLLZQ6i
 <br>
 Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/c3R08GyVR4Cr9pEAanhh3Q/runs/0/artifacts/public/build/target.zip
 
+### Firefox 126.0.1 [6c033deedc28](https://hg.mozilla.org/releases/mozilla-release/rev/6c033deedc28)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/RGsQqbArRC2UbmGa2X43BQ/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/NdhGgDesS2uZNC5EjHFRvA/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 124 [163c38ee7a7a](https://hg.mozilla.org/releases/mozilla-release/rev/163c38ee7a7a)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/BRLWyRI-Te-qE4oELSds6w/runs/0/artifacts/public/build/target.zip
 <br>

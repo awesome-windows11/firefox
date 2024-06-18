@@ -1,6 +1,6 @@
 <h1 align="center"><img width=30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"></img> Awesome Firefox (v1.5.0)</h1>
 
-Project designed to help you make the most of your Firefox browser. We declare that Firefox is times more convenient and better than Chrome. Our goal is to teach you how to get the most out of your browser!
+🦊 Project designed to help you make the most of your Firefox browser. We declare that Firefox is times more convenient and better than Chrome. Our goal is to teach you how to get the most out of your browser!
 
 > Site: https://firefoxs.vercel.app
 > <br>

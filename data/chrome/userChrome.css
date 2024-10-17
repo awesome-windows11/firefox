@@ -47,6 +47,18 @@ menupopup > menu {
 .tabbrowser-tab[selected="true"] {
     background-color: transparent !important; /* Make background transparent or set to your preferred color */
     border-radius: 0 !important; /* Remove border radius */
-    font-weight: bold !important;
-    border-bottom: 3px solid var(--lwt-accent-color, #4A90E2) !important; /* Bottom bar to indicate active tab, adjust color and thickness as needed */
+    /*font-weight: bold !important;*/
+    border-bottom: 2px solid var(--lwt-accent-color, #4A90E2) !important; /* Bottom bar to indicate active tab, adjust color and thickness as needed */
 }
+
+/* Увеличение видимой части названия вкладки в Firefox */
+.tab-label {
+    max-width: none !important;
+}
+
+/* TABS: HEIGHT */
+#tabbrowser-tabs {
+  min-height: 35px !important;
+  max-height: 35px !important;
+}
+

@@ -1,4 +1,4 @@
-/* compact_menus_proton */
+/************** compact_menus_proton *********************/
 .subview-subheader,
 panelview .toolbarbutton-1,
 .subviewbutton,
@@ -14,4 +14,39 @@ menupopup > menu {
 #context-navigation :-moz-any(#context-back,#context-forward,#context-reload,#context-stop,#context-bookmarkpage) {
   padding: 2px !important;
   -moz-margin-start: -10px !important;
+}
+
+/**************** color tabs multi containers ******************/
+.tabbrowser-tab[usercontextid="1"] > .tab-stack > .tab-background {
+  background: #6C3D2A !important; /* Замените на цвет контейнера */
+  height: inherit !important;
+  border-radius: 5px !important;
+}
+
+.tabbrowser-tab[usercontextid="2"] > .tab-stack > .tab-background {
+  background-color: #00FF00 !important; /* Замените на цвет контейнера */
+  height: inherit !important;
+  border-radius: 5px !important;
+}
+
+.tabbrowser-tab[usercontextid="3"] > .tab-stack > .tab-background {
+  background-color: #0000FF !important; /* Замените на цвет контейнера */
+  height: inherit !important;
+  border-radius: 5px !important;
+}
+
+/********************* удалить полоску контейнера на вкладках ************************** /
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-context-line {
+  background-color: var(--identity-icon-color) !important;
+  height: inherit !important;
+  border-radius: 1px !important;
+  margin: 0px !important;
+}
+
+/********** Make the active tab stand out with a bottom bar *************************/
+.tabbrowser-tab[selected="true"] {
+    background-color: transparent !important; /* Make background transparent or set to your preferred color */
+    border-radius: 0 !important; /* Remove border radius */
+    font-weight: bold !important;
+    border-bottom: 3px solid var(--lwt-accent-color, #4A90E2) !important; /* Bottom bar to indicate active tab, adjust color and thickness as needed */
 }

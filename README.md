@@ -65,7 +65,7 @@ https://github.com/Alex313031/Mercury
 <br>
 https://astian.org/midori-browser
 <br>
-https://floorp.app/en
+https://floorp.app/en [Containers are being dropped, unknown error?]
 <br>
 https://mullvad.net/en/browser [Portable, Google calendar won't log in]
 

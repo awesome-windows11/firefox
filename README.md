@@ -66,7 +66,8 @@ https://github.com/Alex313031/Mercury
 https://astian.org/midori-browser
 <br>
 https://floorp.app/en
-
+<br>
+https://mullvad.net/en/browser [Portable]
 
 <h2 align="center">🧰 Extensions</h2>
 

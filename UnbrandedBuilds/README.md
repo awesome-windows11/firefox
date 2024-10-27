@@ -10,9 +10,6 @@ https://ftp.mozilla.org/pub/firefox/releases
 <br>
 [Language packs](http://releases.mozilla.org/pub/firefox/releases/100.0.2/win64/xpi/)
 
-> [!WARNING]
-> Google calendar won't log in!
-
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
 ### Firefox 131.0.3 [e69783530d6d](https://hg.mozilla.org/releases/mozilla-release/rev/e69783530d6d)

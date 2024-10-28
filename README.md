@@ -67,7 +67,7 @@ https://astian.org/midori-browser
 <br>
 https://floorp.app/en [Containers are being dropped, unknown error?]
 <br>
-https://mullvad.net/en/browser [Portable, Google calendar won't log in]
+https://mullvad.net/en/browser [Portable]
 
 <h2 align="center">🧰 Extensions</h2>
 

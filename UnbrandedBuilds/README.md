@@ -12,6 +12,11 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+### Firefox 133.0 [8141aab3ba85](https://hg.mozilla.org/releases/mozilla-release/rev/8141aab3ba85)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/AiSd_pgSTRy-Z-Y7LLeIig/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/RKdRzwG8QICg36yNL07s3w/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 131.0.3 [e69783530d6d](https://hg.mozilla.org/releases/mozilla-release/rev/e69783530d6d)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/IQgVZIN1RWGT58JiUUGXMA/runs/0/artifacts/public/build/target.zip
 <br>

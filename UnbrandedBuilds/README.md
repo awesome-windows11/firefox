@@ -12,6 +12,11 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+### Firefox 145.0.1 [c6ede9b8aae0](https://hg.mozilla.org/releases/mozilla-release/rev/c6ede9b8aae0)
+Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/AnleIaQzTpm8nrKex3_5hg/runs/0/artifacts/public/build/target.zip
+<br>
+Win64 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/SvvoCyOmS6CeYuLSshBtAQ/runs/0/artifacts/public/build/target.zip
+
 ### Firefox 136.0 [2da0b1797683](https://hg.mozilla.org/releases/mozilla-release/rev/2da0b1797683)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/ZpQXbtpISUOdREER9SY71w/runs/0/artifacts/public/build/target.zip
 <br>

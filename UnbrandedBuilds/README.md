@@ -48,6 +48,12 @@ MOZ_PKG_SPECIAL=add-on-devel
 
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
+Да. Сейчас свежая release-версия — **Firefox 155.0.1**, выпущена 4 сентября 2026 года. Её release changeset — `5fdfd0092780e85643e2cddc0e1b`. ([Firefox][1])
+
+### Firefox 155.0.1 [5fdfd0092780](https://hg.mozilla.org/releases/mozilla-release/rev/5fdfd0092780)
+Win32 — https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.latest.firefox.win32-add-on-devel/artifacts/public/build/target.zip
+Win64 — https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.latest.firefox.win64-add-on-devel/artifacts/public/build/target.zip?utm_source=chatgpt.com
+
 ### Firefox 150.0.3 [2853d763c948](https://hg.mozilla.org/releases/mozilla-release/rev/2853d763c948)
 Win32 - https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task/YTMv_nd9T5ucNwP6gsP8bA/runs/0/artifacts/public/build/target.zip
 <br>

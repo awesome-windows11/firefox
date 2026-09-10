@@ -10,6 +10,8 @@ https://ftp.mozilla.org/pub/firefox/releases
 <br>
 [Language packs](http://releases.mozilla.org/pub/firefox/releases/100.0.2/win64/xpi/)
 
+Unbranded build Firefox — это специальная сборка Firefox от Mozilla для разработчиков, почти соответствующая обычному Release/Beta, но без официального брендинга Firefox и с некоторыми разработческими ограничениями, снятыми.
+
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
 ### Firefox 150.0.3 [2853d763c948](https://hg.mozilla.org/releases/mozilla-release/rev/2853d763c948)

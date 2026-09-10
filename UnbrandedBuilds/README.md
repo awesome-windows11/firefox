@@ -50,6 +50,7 @@ MOZ_PKG_SPECIAL=add-on-devel
 
 ### Firefox 155.0.1 [5fdfd0092780](https://hg.mozilla.org/releases/mozilla-release/rev/5fdfd0092780)
 Win32 — https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.latest.firefox.win32-add-on-devel/artifacts/public/build/target.zip
+<br>
 Win64 — https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.latest.firefox.win64-add-on-devel/artifacts/public/build/target.zip?utm_source=chatgpt.com
 
 ### Firefox 150.0.3 [2853d763c948](https://hg.mozilla.org/releases/mozilla-release/rev/2853d763c948)

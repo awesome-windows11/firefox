@@ -17,6 +17,19 @@ Unbranded build Firefox — это специальная сборка Firefox �
 ```
 xpinstall.signatures.required = false
 ```
+
+Самое важное: автоматических обновлений у Unbranded нет. В add-on-devel Mozilla специально устанавливает:
+
+```
+MOZ_REQUIRE_SIGNING=
+--with-branding=browser/branding/unofficial
+--enable-update-channel=default
+MOZ_PKG_SPECIAL=add-on-devel
+```
+
+То есть сборка переводится с обычного release-канала на default. Mozilla отдельно исправляла баг, чтобы такие сборки не получали обновления, и прямо указала: default означает, что обновления для этой сборки не будут обслуживаться.
+
+
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
 ### Firefox 150.0.3 [2853d763c948](https://hg.mozilla.org/releases/mozilla-release/rev/2853d763c948)

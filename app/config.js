@@ -28,6 +28,8 @@ lockPref("app.normandy.first_run", false)
 lockPref("app.normandy.api_url", "none")
 lockPref("datareporting.healthreport.uploadEnabled", false)
 lockPref("datareporting.usage.uploadEnabled", false)
+lockPref("datareporting.policy.dataSubmissionEnabled", false)
+
 // pocket
 lockPref("extensions.pocket.enabled", false)
 lockPref("extensions.pocket.api", "none")

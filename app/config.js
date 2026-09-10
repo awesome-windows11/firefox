@@ -20,15 +20,48 @@ lockPref("browser.safebrowsing.downloads.enabled", false)
 // Warn you about unwanted and uncommon software
 lockPref("browser.safebrowsing.downloads.remote.block_uncommon", false)
 // telemetry
-lockPref("toolkit.telemetry.enabled", false)
 lockPref("toolkit.telemetry.server", "none")
 lockPref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false)
 lockPref("app.normandy.enabled", false)
 lockPref("app.normandy.first_run", false)
 lockPref("app.normandy.api_url", "none")
-lockPref("datareporting.healthreport.uploadEnabled", false)
-lockPref("datareporting.usage.uploadEnabled", false)
-lockPref("datareporting.policy.dataSubmissionEnabled", false)
+
+// Главный запрет отправки telemetry / Glean
+lockPref("datareporting.healthreport.uploadEnabled", false);
+
+// Master kill-switch для data submission
+lockPref("datareporting.policy.dataSubmissionEnabled", false);
+
+// Новый отдельный usage-reporting ping
+lockPref("datareporting.usage.uploadEnabled", false);
+
+// Не хранить telemetry-pings локально
+lockPref("toolkit.telemetry.archive.enabled", false);
+
+// Дополнительные типы legacy/Telemetry pings
+lockPref("toolkit.telemetry.enabled", false)
+lockPref("toolkit.telemetry.shutdownPingSender.enabled", false);
+lockPref("toolkit.telemetry.shutdownPingSender.backgroundtask.enabled", false);
+lockPref("toolkit.telemetry.shutdownPingSender.enabledFirstSession", false);
+lockPref("toolkit.telemetry.firstShutdownPing.enabled", false);
+lockPref("toolkit.telemetry.newProfilePing.enabled", false);
+lockPref("toolkit.telemetry.updatePing.enabled", false);
+lockPref("toolkit.telemetry.bhrPing.enabled", false);
+
+// Studies / эксперименты
+lockPref("app.shield.optoutstudies.enabled", false);
+lockPref("nimbus.rollouts.enabled", false);
+
+// Персонализированные рекомендации расширений
+lockPref("browser.discovery.enabled", false);
+
+// Crash-reporting
+lockPref("browser.crashReports.unsubmittedCheck.enabled", false);
+lockPref("browser.crashReports.unsubmittedCheck.autoSubmit2", false);
+lockPref("browser.tabs.crashReporting.sendReport", false);
+
+// Windows Default Browser Agent
+lockPref("default-browser-agent.enabled", false);
 
 // pocket
 lockPref("extensions.pocket.enabled", false)

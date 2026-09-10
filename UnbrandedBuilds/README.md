@@ -12,6 +12,11 @@ https://ftp.mozilla.org/pub/firefox/releases
 
 Unbranded build Firefox — это специальная сборка Firefox от Mozilla для разработчиков, почти соответствующая обычному Release/Beta, но без официального брендинга Firefox и с некоторыми разработческими ограничениями, снятыми.
 
+Главное отличие — в такой сборке можно отключить обязательную проверку подписи расширений:
+
+```
+xpinstall.signatures.required = false
+```
 <h2 align="center">⬇ Downloading unbranded builds</h2>
 
 ### Firefox 150.0.3 [2853d763c948](https://hg.mozilla.org/releases/mozilla-release/rev/2853d763c948)

@@ -26,6 +26,8 @@ lockPref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false)
 lockPref("app.normandy.enabled", false)
 lockPref("app.normandy.first_run", false)
 lockPref("app.normandy.api_url", "none")
+lockPref("datareporting.healthreport.uploadEnabled", false)
+lockPref("datareporting.usage.uploadEnabled", false)
 // pocket
 lockPref("extensions.pocket.enabled", false)
 lockPref("extensions.pocket.api", "none")

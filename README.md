@@ -78,6 +78,8 @@ https://github.com/FilipePS/Traduzir-paginas-web
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 <br>
 https://github.com/moritz-h/urls-list
+<br>
+[truediscount](https://addons.mozilla.org/en-US/firefox/addon/truediscount/) (checks if an EU shop discount is real against the 30-day lowest price, local only)
 
 <h2 align="center"><a href="https://github.com/awesome-windows11/firefox/tree/main/UnbrandedBuilds">⬇ Unbranded builds</a></h2>
 

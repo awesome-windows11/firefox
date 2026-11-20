@@ -78,6 +78,8 @@ https://github.com/FilipePS/Traduzir-paginas-web
 [Gmail / Calendar checker](https://addons.mozilla.org/ru/firefox/user/1204619)
 <br>
 https://github.com/moritz-h/urls-list
+<br>
+[ShrinkWatch EU](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/) (shows the price per kg or litre on grocery shops and warns about shrinkflation, local only)
 
 <h2 align="center"><a href="https://github.com/awesome-windows11/firefox/tree/main/UnbrandedBuilds">⬇ Unbranded builds</a></h2>
 
